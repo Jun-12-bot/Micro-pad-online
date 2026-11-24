@@ -1,0 +1,10 @@
+{
+  "name": "micro-pad-online",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "micro-pad"
+  },
+  "dependencies": {
+    "micro-pad": "^1.0.6"
+  }
+}
